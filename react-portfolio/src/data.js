@@ -32,3 +32,16 @@ export const projects = [
     link: "https://note-taker-jtstockard.herokuapp.com/",
   },
 ];
+export const skills = [
+  {
+    skill: "JavaScript jQuery MERN npm day.js Handlebars.js Heroku app Regex NoSQL MCV",
+  },
+];
+export const testimonials = [
+  {
+    quote: "",
+    image: "",
+    name: "",
+    company: "",
+  },
+];
