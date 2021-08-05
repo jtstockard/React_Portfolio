@@ -4,7 +4,7 @@ export const projects = [
     subtitle: "Front End API",
     description:
       "Delievery finding app that allows users to search for specific items and which resturants will deliver in your area",
-    image: "/img/portfolio/ddr.jpg",
+    image: "./public/portfolio/ddr.jpg",
     link: "https://japinell.github.io/KU-CBC-Project-1-Delivery-Done-Right/",
   },
   {
@@ -12,7 +12,7 @@ export const projects = [
     subtitle: "Full Stack",
     description:
       "A user based reaction site that logs your input and allows users to create new additional prompts to appear on the homepage",
-    image: "img/portfolio/trolley.jpg",
+    image: "./public/portfolio/trolley.jpg",
     link: "https://ku-cbc-project-2-beardbros.herokuapp.com/",
   },
   {
@@ -20,7 +20,7 @@ export const projects = [
     subtitle: "MySQL and Heroku",
     description:
       "A user based blog post website that allows you to link email and social media accounts",
-    image: "img/portfolio/blog.jpg",
+    image: "./public/portfolio/blog.jpg",
     link: "https://tech-blog-jtstockard.herokuapp.com/",
   },
   {
@@ -28,7 +28,7 @@ export const projects = [
     subtitle: "MySQL and localStorage",
     description:
       "Saves all notes that would be required for your server and allows you to use CRUD operations",
-    image: "img/portfolio/note.jpg",
+    image: "./public/portfolio/note.jpg",
     link: "https://note-taker-jtstockard.herokuapp.com/",
   },
 ];
