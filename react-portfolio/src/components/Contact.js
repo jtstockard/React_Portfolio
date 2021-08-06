@@ -29,7 +29,7 @@ export default function Contact() {
           <iframe
             width="600"
             height="450"
-            style="border:0"
+            style={{ border: 0 }}
             loading="lazy"
             allowfullscreen
             src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJlymdxhnwwIcRZNYx3BBTylU&key=AIzaSyDcVJTig3yisb9F1yVA0_RBBHgTpkzb9H8"

@@ -33,9 +33,16 @@ export const projects = [
   },
 ];
 export const skills = [
-  {
-    skill: "JavaScript jQuery MERN npm day.js Handlebars.js Heroku app Regex NoSQL MCV",
-  },
+  "JavaScript",
+  "jQuery",
+  "MERN",
+  "npm",
+  "day.js",
+  "Handlebars.js",
+  "Heroku",
+  "Regex",
+  "NoSQL",
+  "MVC",
 ];
 export const testimonials = [
   {
